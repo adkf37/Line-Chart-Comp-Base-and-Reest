@@ -1,49 +1,91 @@
 Month,Sales,Fruit,Year
-2018,87,Defense,CBO
-2019,3,Defense,CBO
-2020,89,Defense,CBO
-2021,56,Defense,CBO
-2022,1,Defense,CBO
-2023,17,Defense,CBO
-2024,59,Defense,CBO
-2025,43,Defense,CBO
-2026,16,Defense,CBO
-2027,94,Defense,CBO
-2028,99,Defense,CBO
-2029,53,Defense,CBO
-2018,95.7,Defense,Pres
-2019,3.3,Defense,Pres
-2020,97.9,Defense,Pres
-2021,61.6,Defense,Pres
-2022,1.1,Defense,Pres
-2023,18.7,Defense,Pres
-2024,64.9,Defense,Pres
-2025,47.3,Defense,Pres
-2026,17.6,Defense,Pres
-2027,103.4,Defense,Pres
-2028,108.9,Defense,Pres
-2029,58.3,Defense,Pres
-2018,43.5,Interational Affairs,CBO
-2019,1.5,Interational Affairs,CBO
-2020,44.5,Interational Affairs,CBO
-2021,28,Interational Affairs,CBO
-2022,0.5,Interational Affairs,CBO
-2023,8.5,Interational Affairs,CBO
-2024,29.5,Interational Affairs,CBO
-2025,21.5,Interational Affairs,CBO
-2026,8,Interational Affairs,CBO
-2027,47,Interational Affairs,CBO
-2028,49.5,Interational Affairs,CBO
-2029,26.5,Interational Affairs,CBO
-2018,39.15,Interational Affairs,Pres
-2019,1.35,Interational Affairs,Pres
-2020,40.05,Interational Affairs,Pres
-2021,25.2,Interational Affairs,Pres
-2022,0.45,Interational Affairs,Pres
-2023,7.65,Interational Affairs,Pres
-2024,26.55,Interational Affairs,Pres
-2025,19.35,Interational Affairs,Pres
-2026,7.2,Interational Affairs,Pres
-2027,42.3,Interational Affairs,Pres
-2028,44.55,Interational Affairs,Pres
-2029,23.85,Interational Affairs,Pres
+2014,50078,Administration of Justice,Pres
+2015,51528,Administration of Justice,Pres
+2016,54152,Administration of Justice,Pres
+2017,58000,Administration of Justice,Pres
+2018,61572,Administration of Justice,Pres
+2019,63791,Administration of Justice,Pres
+2020,65447,Administration of Justice,Pres
+2021,68177,Administration of Justice,Pres
+2022,67510,Administration of Justice,Pres
+2023,68086,Administration of Justice,Pres
+2024,68348,Administration of Justice,Pres
+2025,68530,Administration of Justice,Pres
+2026,68245,Administration of Justice,Pres
+2027,67997,Administration of Justice,Pres
+2028,68793,Administration of Justice,Pres
+2014,50078,Administration of Justice,CBO
+2015,51528,Administration of Justice,CBO
+2016,54152,Administration of Justice,CBO
+2017,58000,Administration of Justice,CBO
+2018,61572,Administration of Justice,CBO
+2019,65823,Administration of Justice,CBO
+2020,70098,Administration of Justice,CBO
+2021,75416,Administration of Justice,CBO
+2022,76407,Administration of Justice,CBO
+2023,76387,Administration of Justice,CBO
+2024,76152,Administration of Justice,CBO
+2025,77124,Administration of Justice,CBO
+2026,78842,Administration of Justice,CBO
+2027,82299,Administration of Justice,CBO
+2028,89497,Administration of Justice,CBO
+2014,23263,Agriculture,Pres
+2015,17884,Agriculture,Pres
+2016,18361,Agriculture,Pres
+2017,18895,Agriculture,Pres
+2018,23996,Agriculture,Pres
+2019,20732,Agriculture,Pres
+2020,16935,Agriculture,Pres
+2021,17887,Agriculture,Pres
+2022,18241,Agriculture,Pres
+2023,17886,Agriculture,Pres
+2024,17933,Agriculture,Pres
+2025,17950,Agriculture,Pres
+2026,18209,Agriculture,Pres
+2027,17977,Agriculture,Pres
+2028,18028,Agriculture,Pres
+2014,23263,Agriculture,CBO
+2015,17884,Agriculture,CBO
+2016,18361,Agriculture,CBO
+2017,18895,Agriculture,CBO
+2018,23996,Agriculture,CBO
+2019,22546,Agriculture,CBO
+2020,22151,Agriculture,CBO
+2021,23826,Agriculture,CBO
+2022,24523,Agriculture,CBO
+2023,24453,Agriculture,CBO
+2024,24802,Agriculture,CBO
+2025,25115,Agriculture,CBO
+2026,25681,Agriculture,CBO
+2027,25761,Agriculture,CBO
+2028,26114,Agriculture,CBO
+2014,603279,Defense,Pres
+2015,589368,Defense,Pres
+2016,593294,Defense,Pres
+2017,598103,Defense,Pres
+2018,626239,Defense,Pres
+2019,675383,Defense,Pres
+2020,709466,Defense,Pres
+2021,728965,Defense,Pres
+2022,750883,Defense,Pres
+2023,761705,Defense,Pres
+2024,742521,Defense,Pres
+2025,748419,Defense,Pres
+2026,758643,Defense,Pres
+2027,770887,Defense,Pres
+2028,791369,Defense,Pres
+2014,603279,Defense,CBO
+2015,589368,Defense,CBO
+2016,593294,Defense,CBO
+2017,598103,Defense,CBO
+2018,626239,Defense,CBO
+2019,672863,Defense,CBO
+2020,708733,Defense,CBO
+2021,737813,Defense,CBO
+2022,765781,Defense,CBO
+2023,781091,Defense,CBO
+2024,796252,Defense,CBO
+2025,821501,Defense,CBO
+2026,841811,Defense,CBO
+2027,862662,Defense,CBO
+2028,889101,Defense,CBO
