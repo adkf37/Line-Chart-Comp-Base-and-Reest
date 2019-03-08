@@ -1,49 +1,49 @@
 Month,Sales,Fruit,Year
-2016,87,Defense,Pres
-2017,3,Defense,Pres
-2018,89,Defense,Pres
-2019,56,Defense,Pres
-2020,1,Defense,Pres
-2021,17,Defense,Pres
-2022,59,Defense,Pres
-2023,43,Defense,Pres
-2024,16,Defense,Pres
-2025,94,Defense,Pres
-2026,99,Defense,Pres
-2027,53,Defense,Pres
-2016,87,Defense,CBO
-2017,3,Defense,CBO
-2018,89,Defense,CBO
-2019,56,Defense,CBO
-2020,1,Defense,CBO
-2021,17,Defense,CBO
-2022,59,Defense,CBO
-2023,43,Defense,CBO
-2024,16,Defense,CBO
-2025,94,Defense,CBO
-2026,99,Defense,CBO
-2027,53,Defense,CBO
-2016,43.5,Interational Affairs,Pres
-2017,1.5,Interational Affairs,Pres
-2018,44.5,Interational Affairs,Pres
-2019,28,Interational Affairs,Pres
-2020,0.5,Interational Affairs,Pres
-2021,8.5,Interational Affairs,Pres
-2022,29.5,Interational Affairs,Pres
-2023,21.5,Interational Affairs,Pres
-2024,8,Interational Affairs,Pres
-2025,47,Interational Affairs,Pres
-2026,49.5,Interational Affairs,Pres
-2027,26.5,Interational Affairs,Pres
-2016,43.5,Interational Affairs,CBO
-2017,1.5,Interational Affairs,CBO
-2018,44.5,Interational Affairs,CBO
-2019,28,Interational Affairs,CBO
-2020,0.5,Interational Affairs,CBO
-2021,8.5,Interational Affairs,CBO
-2022,29.5,Interational Affairs,CBO
-2023,21.5,Interational Affairs,CBO
-2024,8,Interational Affairs,CBO
-2025,47,Interational Affairs,CBO
-2026,49.5,Interational Affairs,CBO
-2027,26.5,Interational Affairs,CBO
+2016,87,Defense,1
+2017,3,Defense,1
+2018,89,Defense,1
+2019,56,Defense,1
+2020,1,Defense,1
+2021,17,Defense,1
+2022,59,Defense,1
+2023,43,Defense,1
+2024,16,Defense,1
+2025,94,Defense,1
+2026,99,Defense,1
+2027,53,Defense,1
+2016,87,Defense,2
+2017,3,Defense,2
+2018,89,Defense,2
+2019,56,Defense,2
+2020,1,Defense,2
+2021,17,Defense,2
+2022,59,Defense,2
+2023,43,Defense,2
+2024,16,Defense,2
+2025,94,Defense,2
+2026,99,Defense,2
+2027,53,Defense,2
+2016,43.5,Interational Affairs,1
+2017,1.5,Interational Affairs,1
+2018,44.5,Interational Affairs,1
+2019,28,Interational Affairs,1
+2020,0.5,Interational Affairs,1
+2021,8.5,Interational Affairs,1
+2022,29.5,Interational Affairs,1
+2023,21.5,Interational Affairs,1
+2024,8,Interational Affairs,1
+2025,47,Interational Affairs,1
+2026,49.5,Interational Affairs,1
+2027,26.5,Interational Affairs,1
+2016,43.5,Interational Affairs,2
+2017,1.5,Interational Affairs,2
+2018,44.5,Interational Affairs,2
+2019,28,Interational Affairs,2
+2020,0.5,Interational Affairs,2
+2021,8.5,Interational Affairs,2
+2022,29.5,Interational Affairs,2
+2023,21.5,Interational Affairs,2
+2024,8,Interational Affairs,2
+2025,47,Interational Affairs,2
+2026,49.5,Interational Affairs,2
+2027,26.5,Interational Affairs,2
