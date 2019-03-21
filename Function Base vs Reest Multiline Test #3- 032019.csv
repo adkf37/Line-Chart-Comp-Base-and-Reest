@@ -1,0 +1,541 @@
+Year,Outlays,Function,BudgetType
+2014,596177,Defense discretionary ,CBO
+2014,301472,Medicaid,CBO
+2014,505239,Medicare,CBO
+2014,228124,Net Interest,CBO
+2014,564096,Nondefense discretionary ,CBO
+2014,418951,Other Mandatory,CBO
+2014,844876,Social Security,CBO
+2015,582804,Defense discretionary ,CBO
+2015,349762,Medicaid,CBO
+2015,539886,Medicare,CBO
+2015,223157,Net Interest,CBO
+2015,574826,Nondefense discretionary ,CBO
+2015,520527,Other Mandatory,CBO
+2015,881891,Social Security,CBO
+2016,584818,Defense discretionary ,CBO
+2016,368280,Medicaid,CBO
+2016,588380,Medicare,CBO
+2016,237661,Net Interest,CBO
+2016,589573,Nondefense discretionary ,CBO
+2016,506062,Other Mandatory,CBO
+2016,910282,Social Security,CBO
+2017,590174,Defense discretionary ,CBO
+2017,374682,Medicaid,CBO
+2017,591403,Medicare,CBO
+2017,261119,Net Interest,CBO
+2017,606549,Nondefense discretionary ,CBO
+2017,613241,Other Mandatory,CBO
+2017,939203,Social Security,CBO
+2015,582804,Defense discretionary ,Pres
+2015,349762,Medicaid,Pres
+2015,539886,Medicare,Pres
+2015,223157,Net Interest,Pres
+2015,574826,Nondefense discretionary ,Pres
+2015,520527,Other Mandatory,Pres
+2015,881891,Social Security,Pres
+2016,584818,Defense discretionary ,Pres
+2016,368280,Medicaid,Pres
+2016,588380,Medicare,Pres
+2016,237661,Net Interest,Pres
+2016,589573,Nondefense discretionary ,Pres
+2016,506062,Other Mandatory,Pres
+2016,910282,Social Security,Pres
+2017,590174,Defense discretionary ,Pres
+2017,374682,Medicaid,Pres
+2017,591403,Medicare,Pres
+2017,261119,Net Interest,Pres
+2017,606549,Nondefense discretionary ,Pres
+2017,613241,Other Mandatory,Pres
+2017,939203,Social Security,Pres
+2014,596177,Defense discretionary ,Pres
+2014,301472,Medicaid,Pres
+2014,505239,Medicare,Pres
+2014,228124,Net Interest,Pres
+2014,564096,Nondefense discretionary ,Pres
+2014,418951,Other Mandatory,Pres
+2014,844876,Social Security,Pres
+2018,617802,Defense discretionary ,Pres
+2018,383234,Medicaid,Pres
+2018,583184,Medicare,Pres
+2018,315491,Net Interest,Pres
+2018,656007,Nondefense discretionary ,Pres
+2018,591233,Other Mandatory,Pres
+2018,984403,Social Security,Pres
+2019,665864,Defense discretionary ,Pres
+2019,400994,Medicaid,Pres
+2019,640642,Medicare,Pres
+2019,387477,Net Interest,Pres
+2019,657657,Nondefense discretionary ,Pres
+2019,652906,Other Mandatory,Pres
+2019,1042948,Social Security,Pres
+2020,698908,Defense discretionary ,Pres
+2020,353286,Medicaid,Pres
+2020,654752,Medicare,Pres
+2020,479202,Net Interest,Pres
+2020,611614,Nondefense discretionary ,Pres
+2020,641930,Other Mandatory,Pres
+2020,1108723,Social Security,Pres
+2021,718175,Defense discretionary ,Pres
+2021,347891,Medicaid,Pres
+2021,702356,Medicare,Pres
+2021,558310,Net Interest,Pres
+2021,569682,Nondefense discretionary ,Pres
+2021,699922,Other Mandatory,Pres
+2021,1178409,Social Security,Pres
+2022,739908,Defense discretionary ,Pres
+2022,353502,Medicaid,Pres
+2022,785361,Medicare,Pres
+2022,623004,Net Interest,Pres
+2022,533557,Nondefense discretionary ,Pres
+2022,768567,Other Mandatory,Pres
+2022,1251210,Social Security,Pres
+2023,750648,Defense discretionary ,Pres
+2023,364528,Medicaid,Pres
+2023,803954,Medicare,Pres
+2023,671978,Net Interest,Pres
+2023,513643,Nondefense discretionary ,Pres
+2023,769464,Other Mandatory,Pres
+2023,1328245,Social Security,Pres
+2024,731362,Defense discretionary ,Pres
+2024,376423,Medicaid,Pres
+2024,816298,Medicare,Pres
+2024,697971,Net Interest,Pres
+2024,499898,Nondefense discretionary ,Pres
+2024,774714,Other Mandatory,Pres
+2024,1408036,Social Security,Pres
+2025,737199,Defense discretionary ,Pres
+2025,386933,Medicaid,Pres
+2025,916071,Medicare,Pres
+2025,719489,Net Interest,Pres
+2025,490054,Nondefense discretionary ,Pres
+2025,811423,Other Mandatory,Pres
+2025,1492305,Social Security,Pres
+2026,747339,Defense discretionary ,Pres
+2026,398631,Medicaid,Pres
+2026,981648,Medicare,Pres
+2026,748461,Net Interest,Pres
+2026,481014,Nondefense discretionary ,Pres
+2026,840630,Other Mandatory,Pres
+2026,1580464,Social Security,Pres
+2027,759474,Defense discretionary ,Pres
+2027,411196,Medicaid,Pres
+2027,1058984,Medicare,Pres
+2027,782122,Net Interest,Pres
+2027,472696,Nondefense discretionary ,Pres
+2027,870951,Other Mandatory,Pres
+2027,1673179,Social Security,Pres
+2028,779816,Defense discretionary ,Pres
+2028,423435,Medicaid,Pres
+2028,1171246,Medicare,Pres
+2028,819307,Net Interest,Pres
+2028,464045,Nondefense discretionary ,Pres
+2028,922480,Other Mandatory,Pres
+2028,1770649,Social Security,Pres
+2018,617802,Defense discretionary ,CBO
+2018,383234,Medicaid,CBO
+2018,583184,Medicare,CBO
+2018,315492,Net Interest,CBO
+2018,656007,Nondefense discretionary ,CBO
+2018,591233,Other Mandatory,CBO
+2018,984403,Social Security,CBO
+2019,663479,Defense discretionary ,CBO
+2019,401351,Medicaid,CBO
+2019,640942,Medicare,CBO
+2019,389275,Net Interest,CBO
+2019,694459,Nondefense discretionary ,CBO
+2019,630438,Other Mandatory,CBO
+2019,1043257,Social Security,CBO
+2020,647068,Defense discretionary ,CBO
+2020,416854,Medicaid,CBO
+2020,685022,Medicare,CBO
+2020,483979,Net Interest,CBO
+2020,691421,Nondefense discretionary ,CBO
+2020,648951,Other Mandatory,CBO
+2020,1109572,Social Security,CBO
+2021,654251,Defense discretionary ,CBO
+2021,436639,Medicaid,CBO
+2021,738256,Medicare,CBO
+2021,569192,Net Interest,CBO
+2021,691490,Nondefense discretionary ,CBO
+2021,677936,Other Mandatory,CBO
+2021,1179512,Social Security,CBO
+2022,672026,Defense discretionary ,CBO
+2022,464582,Medicaid,CBO
+2022,828491,Medicare,CBO
+2022,641833,Net Interest,CBO
+2022,709327,Nondefense discretionary ,CBO
+2022,721289,Other Mandatory,CBO
+2022,1252704,Social Security,CBO
+2023,680240,Defense discretionary ,CBO
+2023,493201,Medicaid,CBO
+2023,851694,Medicare,CBO
+2023,700581,Net Interest,CBO
+2023,729166,Nondefense discretionary ,CBO
+2023,719839,Other Mandatory,CBO
+2023,1330042,Social Security,CBO
+2024,689986,Defense discretionary ,CBO
+2024,523610,Medicaid,CBO
+2024,868318,Medicare,CBO
+2024,737940,Net Interest,CBO
+2024,749955,Nondefense discretionary ,CBO
+2024,712637,Other Mandatory,CBO
+2024,1410177,Social Security,CBO
+2025,712260,Defense discretionary ,CBO
+2025,554415,Medicaid,CBO
+2025,972871,Medicare,CBO
+2025,772881,Net Interest,CBO
+2025,773585,Nondefense discretionary ,CBO
+2025,738798,Other Mandatory,CBO
+2025,1494734,Social Security,CBO
+2026,729846,Defense discretionary ,CBO
+2026,586606,Medicaid,CBO
+2026,1041818,Medicare,CBO
+2026,816136,Net Interest,CBO
+2026,796882,Nondefense discretionary ,CBO
+2026,769729,Other Mandatory,CBO
+2026,1583118,Social Security,CBO
+2027,747836,Defense discretionary ,CBO
+2027,620285,Medicaid,CBO
+2027,1115894,Medicare,CBO
+2027,862869,Net Interest,CBO
+2027,819794,Nondefense discretionary ,CBO
+2027,772853,Other Mandatory,CBO
+2027,1675985,Social Security,CBO
+2028,771471,Defense discretionary ,CBO
+2028,654627,Medicaid,CBO
+2028,1259836,Medicare,CBO
+2028,913808,Net Interest,CBO
+2028,841909,Nondefense discretionary ,CBO
+2028,831441,Other Mandatory,CBO
+2028,1773599,Social Security,CBO
+2014,25657,800 - General Government,Pres
+2015,25449,800 - General Government,Pres
+2016,26545,800 - General Government,Pres
+2017,27524,800 - General Government,Pres
+2018,28064,800 - General Government,Pres
+2019,28754,800 - General Government,Pres
+2020,29659,800 - General Government,Pres
+2021,29929,800 - General Government,Pres
+2022,31317,800 - General Government,Pres
+2023,31528,800 - General Government,Pres
+2024,31859,800 - General Government,Pres
+2025,32534,800 - General Government,Pres
+2026,32900,800 - General Government,Pres
+2027,33527,800 - General Government,Pres
+2028,33655,800 - General Government,Pres
+2014,25657,800 - General Government,CBO
+2015,25449,800 - General Government,CBO
+2016,26545,800 - General Government,CBO
+2017,27524,800 - General Government,CBO
+2018,28064,800 - General Government,CBO
+2019,28640,800 - General Government,CBO
+2020,29650,800 - General Government,CBO
+2021,30077,800 - General Government,CBO
+2022,31548,800 - General Government,CBO
+2023,31655,800 - General Government,CBO
+2024,32217,800 - General Government,CBO
+2025,33227,800 - General Government,CBO
+2026,33707,800 - General Government,CBO
+2027,34471,800 - General Government,CBO
+2028,35257,800 - General Government,CBO
+2014,25531,"250 - General Science, Space, and Technology",Pres
+2015,29364,"250 - General Science, Space, and Technology",Pres
+2016,30168,"250 - General Science, Space, and Technology",Pres
+2017,30407,"250 - General Science, Space, and Technology",Pres
+2018,31806,"250 - General Science, Space, and Technology",Pres
+2019,32437,"250 - General Science, Space, and Technology",Pres
+2020,31332,"250 - General Science, Space, and Technology",Pres
+2021,30069,"250 - General Science, Space, and Technology",Pres
+2022,29142,"250 - General Science, Space, and Technology",Pres
+2023,28780,"250 - General Science, Space, and Technology",Pres
+2024,28625,"250 - General Science, Space, and Technology",Pres
+2025,28484,"250 - General Science, Space, and Technology",Pres
+2026,28439,"250 - General Science, Space, and Technology",Pres
+2027,28428,"250 - General Science, Space, and Technology",Pres
+2028,28428,"250 - General Science, Space, and Technology",Pres
+2014,25531,"250 - General Science, Space, and Technology",CBO
+2015,29364,"250 - General Science, Space, and Technology",CBO
+2016,30168,"250 - General Science, Space, and Technology",CBO
+2017,30407,"250 - General Science, Space, and Technology",CBO
+2018,31806,"250 - General Science, Space, and Technology",CBO
+2019,33788,"250 - General Science, Space, and Technology",CBO
+2020,35085,"250 - General Science, Space, and Technology",CBO
+2021,36075,"250 - General Science, Space, and Technology",CBO
+2022,36726,"250 - General Science, Space, and Technology",CBO
+2023,37464,"250 - General Science, Space, and Technology",CBO
+2024,38377,"250 - General Science, Space, and Technology",CBO
+2025,39262,"250 - General Science, Space, and Technology",CBO
+2026,40148,"250 - General Science, Space, and Technology",CBO
+2027,41048,"250 - General Science, Space, and Technology",CBO
+2028,41980,"250 - General Science, Space, and Technology",CBO
+2014,408729,550 - Health,Pres
+2015,481938,550 - Health,Pres
+2016,511068,550 - Health,Pres
+2017,529335,550 - Health,Pres
+2018,552426,550 - Health,Pres
+2019,577261,550 - Health,Pres
+2020,538972,550 - Health,Pres
+2021,580036,550 - Health,Pres
+2022,591216,550 - Health,Pres
+2023,602077,550 - Health,Pres
+2024,624937,550 - Health,Pres
+2025,644275,550 - Health,Pres
+2026,663518,550 - Health,Pres
+2027,684008,550 - Health,Pres
+2028,703727,550 - Health,Pres
+2014,408729,550 - Health,CBO
+2015,481938,550 - Health,CBO
+2016,511068,550 - Health,CBO
+2017,529335,550 - Health,CBO
+2018,552426,550 - Health,CBO
+2019,580761,550 - Health,CBO
+2020,600087,550 - Health,CBO
+2021,626823,550 - Health,CBO
+2022,664281,550 - Health,CBO
+2023,699207,550 - Health,CBO
+2024,735479,550 - Health,CBO
+2025,772738,550 - Health,CBO
+2026,809311,550 - Health,CBO
+2027,849988,550 - Health,CBO
+2028,892919,550 - Health,CBO
+2014,502315,600 - Income Security,Pres
+2015,486013,600 - Income Security,Pres
+2016,514194,600 - Income Security,Pres
+2017,503635,600 - Income Security,Pres
+2018,499272,600 - Income Security,Pres
+2019,511974,600 - Income Security,Pres
+2020,511387,600 - Income Security,Pres
+2021,520932,600 - Income Security,Pres
+2022,545862,600 - Income Security,Pres
+2023,548162,600 - Income Security,Pres
+2024,549822,600 - Income Security,Pres
+2025,572690,600 - Income Security,Pres
+2026,584406,600 - Income Security,Pres
+2027,606016,600 - Income Security,Pres
+2028,629339,600 - Income Security,Pres
+2014,502315,600 - Income Security,CBO
+2015,486013,600 - Income Security,CBO
+2016,514194,600 - Income Security,CBO
+2017,503635,600 - Income Security,CBO
+2018,499272,600 - Income Security,CBO
+2019,524321,600 - Income Security,CBO
+2020,536663,600 - Income Security,CBO
+2021,554305,600 - Income Security,CBO
+2022,583765,600 - Income Security,CBO
+2023,589418,600 - Income Security,CBO
+2024,594012,600 - Income Security,CBO
+2025,615045,600 - Income Security,CBO
+2026,636431,600 - Income Security,CBO
+2027,634108,600 - Income Security,CBO
+2028,660813,600 - Income Security,CBO
+2014,45200,150 - International Affairs,Pres
+2015,46758,150 - International Affairs,Pres
+2016,44693,150 - International Affairs,Pres
+2017,46304,150 - International Affairs,Pres
+2018,44479,150 - International Affairs,Pres
+2019,44501,150 - International Affairs,Pres
+2020,40305,150 - International Affairs,Pres
+2021,36161,150 - International Affairs,Pres
+2022,32893,150 - International Affairs,Pres
+2023,30771,150 - International Affairs,Pres
+2024,29451,150 - International Affairs,Pres
+2025,28445,150 - International Affairs,Pres
+2026,27986,150 - International Affairs,Pres
+2027,27765,150 - International Affairs,Pres
+2028,27706,150 - International Affairs,Pres
+2014,45200,150 - International Affairs,CBO
+2015,46758,150 - International Affairs,CBO
+2016,44693,150 - International Affairs,CBO
+2017,46304,150 - International Affairs,CBO
+2018,44479,150 - International Affairs,CBO
+2019,47681,150 - International Affairs,CBO
+2020,51671,150 - International Affairs,CBO
+2021,54878,150 - International Affairs,CBO
+2022,56992,150 - International Affairs,CBO
+2023,58933,150 - International Affairs,CBO
+2024,60576,150 - International Affairs,CBO
+2025,61947,150 - International Affairs,CBO
+2026,63401,150 - International Affairs,CBO
+2027,64839,150 - International Affairs,CBO
+2028,66343,150 - International Affairs,CBO
+2014,511624,570 - Medicare,Pres
+2015,546215,570 - Medicare,Pres
+2016,594555,570 - Medicare,Pres
+2017,597309,570 - Medicare,Pres
+2018,590353,570 - Medicare,Pres
+2019,647381,570 - Medicare,Pres
+2020,661290,570 - Medicare,Pres
+2021,708865,570 - Medicare,Pres
+2022,791886,570 - Medicare,Pres
+2023,810505,570 - Medicare,Pres
+2024,822877,570 - Medicare,Pres
+2025,922678,570 - Medicare,Pres
+2026,988283,570 - Medicare,Pres
+2027,1058648,570 - Medicare,Pres
+2028,1196340,570 - Medicare,Pres
+2014,511624,570 - Medicare,CBO
+2015,546215,570 - Medicare,CBO
+2016,594555,570 - Medicare,CBO
+2017,597309,570 - Medicare,CBO
+2018,590353,570 - Medicare,CBO
+2019,648496,570 - Medicare,CBO
+2020,693003,570 - Medicare,CBO
+2021,746665,570 - Medicare,CBO
+2022,837351,570 - Medicare,CBO
+2023,861027,570 - Medicare,CBO
+2024,878132,570 - Medicare,CBO
+2025,983190,570 - Medicare,CBO
+2026,1052643,570 - Medicare,CBO
+2027,1127236,570 - Medicare,CBO
+2028,1271697,570 - Medicare,CBO
+2014,850392,650 - Social Security,Pres
+2015,887690,650 - Social Security,Pres
+2016,915997,650 - Social Security,Pres
+2017,944871,650 - Social Security,Pres
+2018,990440,650 - Social Security,Pres
+2019,1048385,650 - Social Security,Pres
+2020,1114157,650 - Social Security,Pres
+2021,1183787,650 - Social Security,Pres
+2022,1256572,650 - Social Security,Pres
+2023,1333610,650 - Social Security,Pres
+2024,1413407,650 - Social Security,Pres
+2025,1497681,650 - Social Security,Pres
+2026,1585848,650 - Social Security,Pres
+2027,1678572,650 - Social Security,Pres
+2028,1776057,650 - Social Security,Pres
+2014,850392,650 - Social Security,CBO
+2015,887690,650 - Social Security,CBO
+2016,915997,650 - Social Security,CBO
+2017,944871,650 - Social Security,CBO
+2018,990440,650 - Social Security,CBO
+2019,1049457,650 - Social Security,CBO
+2020,1115962,650 - Social Security,CBO
+2021,1186114,650 - Social Security,CBO
+2022,1259521,650 - Social Security,CBO
+2023,1337073,650 - Social Security,CBO
+2024,1417431,650 - Social Security,CBO
+2025,1502213,650 - Social Security,CBO
+2026,1590823,650 - Social Security,CBO
+2027,1683926,650 - Social Security,CBO
+2028,1781781,650 - Social Security,CBO
+2014,69750,400 - Transportation,Pres
+2015,80360,400 - Transportation,Pres
+2016,36890,400 - Transportation,Pres
+2017,91193,400 - Transportation,Pres
+2018,94011,400 - Transportation,Pres
+2019,94257,400 - Transportation,Pres
+2020,92559,400 - Transportation,Pres
+2021,92403,400 - Transportation,Pres
+2022,92409,400 - Transportation,Pres
+2023,92734,400 - Transportation,Pres
+2024,92770,400 - Transportation,Pres
+2025,93129,400 - Transportation,Pres
+2026,93341,400 - Transportation,Pres
+2027,93503,400 - Transportation,Pres
+2028,93755,400 - Transportation,Pres
+2014,69750,400 - Transportation,CBO
+2015,80360,400 - Transportation,CBO
+2016,36890,400 - Transportation,CBO
+2017,91193,400 - Transportation,CBO
+2018,94011,400 - Transportation,CBO
+2019,98064,400 - Transportation,CBO
+2020,102628,400 - Transportation,CBO
+2021,107057,400 - Transportation,CBO
+2022,110771,400 - Transportation,CBO
+2023,113695,400 - Transportation,CBO
+2024,116479,400 - Transportation,CBO
+2025,119355,400 - Transportation,CBO
+2026,121870,400 - Transportation,CBO
+2027,124307,400 - Transportation,CBO
+2028,126756,400 - Transportation,CBO
+2014,35683,300 - Natural Resources and Environment,Pres
+2015,35863,300 - Natural Resources and Environment,Pres
+2016,39356,300 - Natural Resources and Environment,Pres
+2017,38889,300 - Natural Resources and Environment,Pres
+2018,41901,300 - Natural Resources and Environment,Pres
+2019,40418,300 - Natural Resources and Environment,Pres
+2020,37789,300 - Natural Resources and Environment,Pres
+2021,36699,300 - Natural Resources and Environment,Pres
+2022,34663,300 - Natural Resources and Environment,Pres
+2023,35486,300 - Natural Resources and Environment,Pres
+2024,35370,300 - Natural Resources and Environment,Pres
+2025,35160,300 - Natural Resources and Environment,Pres
+2026,35735,300 - Natural Resources and Environment,Pres
+2027,35861,300 - Natural Resources and Environment,Pres
+2028,35875,300 - Natural Resources and Environment,Pres
+2014,35683,300 - Natural Resources and Environment,CBO
+2015,35863,300 - Natural Resources and Environment,CBO
+2016,39356,300 - Natural Resources and Environment,CBO
+2017,38889,300 - Natural Resources and Environment,CBO
+2018,41901,300 - Natural Resources and Environment,CBO
+2019,45831,300 - Natural Resources and Environment,CBO
+2020,49403,300 - Natural Resources and Environment,CBO
+2021,51498,300 - Natural Resources and Environment,CBO
+2022,52236,300 - Natural Resources and Environment,CBO
+2023,55350,300 - Natural Resources and Environment,CBO
+2024,57338,300 - Natural Resources and Environment,CBO
+2025,59199,300 - Natural Resources and Environment,CBO
+2026,62120,300 - Natural Resources and Environment,CBO
+2027,64677,300 - Natural Resources and Environment,CBO
+2028,67244,300 - Natural Resources and Environment,CBO
+2014,149137,700 - Veterans Benefits and Services,Pres
+2015,158166,700 - Veterans Benefits and Services,Pres
+2016,173168,700 - Veterans Benefits and Services,Pres
+2017,175901,700 - Veterans Benefits and Services,Pres
+2018,176103,700 - Veterans Benefits and Services,Pres
+2019,194305,700 - Veterans Benefits and Services,Pres
+2020,200792,700 - Veterans Benefits and Services,Pres
+2021,205892,700 - Veterans Benefits and Services,Pres
+2022,220302,700 - Veterans Benefits and Services,Pres
+2023,215788,700 - Veterans Benefits and Services,Pres
+2024,210392,700 - Veterans Benefits and Services,Pres
+2025,225130,700 - Veterans Benefits and Services,Pres
+2026,230094,700 - Veterans Benefits and Services,Pres
+2027,235209,700 - Veterans Benefits and Services,Pres
+2028,252674,700 - Veterans Benefits and Services,Pres
+2014,149137,700 - Veterans Benefits and Services,CBO
+2015,158166,700 - Veterans Benefits and Services,CBO
+2016,173168,700 - Veterans Benefits and Services,CBO
+2017,175901,700 - Veterans Benefits and Services,CBO
+2018,176103,700 - Veterans Benefits and Services,CBO
+2019,194623,700 - Veterans Benefits and Services,CBO
+2020,202357,700 - Veterans Benefits and Services,CBO
+2021,210029,700 - Veterans Benefits and Services,CBO
+2022,227037,700 - Veterans Benefits and Services,CBO
+2023,225149,700 - Veterans Benefits and Services,CBO
+2024,222581,700 - Veterans Benefits and Services,CBO
+2025,240260,700 - Veterans Benefits and Services,CBO
+2026,248214,700 - Veterans Benefits and Services,CBO
+2027,256444,700 - Veterans Benefits and Services,CBO
+2028,277828,700 - Veterans Benefits and Services,CBO
+2014,-63607,950 - Undistributed Offsetting Receipts,Pres
+2015,-65109,950 - Undistributed Offsetting Receipts,Pres
+2016,-67092,950 - Undistributed Offsetting Receipts,Pres
+2017,-67467,950 - Undistributed Offsetting Receipts,Pres
+2018,-70381,950 - Undistributed Offsetting Receipts,Pres
+2019,-75901,950 - Undistributed Offsetting Receipts,Pres
+2020,-75124,950 - Undistributed Offsetting Receipts,Pres
+2021,-74716,950 - Undistributed Offsetting Receipts,Pres
+2022,-74944,950 - Undistributed Offsetting Receipts,Pres
+2023,-75346,950 - Undistributed Offsetting Receipts,Pres
+2024,-75730,950 - Undistributed Offsetting Receipts,Pres
+2025,-76648,950 - Undistributed Offsetting Receipts,Pres
+2026,-78371,950 - Undistributed Offsetting Receipts,Pres
+2027,-80313,950 - Undistributed Offsetting Receipts,Pres
+2028,-82274,950 - Undistributed Offsetting Receipts,Pres
+2014,-63607,950 - Undistributed Offsetting Receipts,CBO
+2015,-65109,950 - Undistributed Offsetting Receipts,CBO
+2016,-67092,950 - Undistributed Offsetting Receipts,CBO
+2017,-67467,950 - Undistributed Offsetting Receipts,CBO
+2018,-70381,950 - Undistributed Offsetting Receipts,CBO
+2019,-74088,950 - Undistributed Offsetting Receipts,CBO
+2020,-75623,950 - Undistributed Offsetting Receipts,CBO
+2021,-77941,950 - Undistributed Offsetting Receipts,CBO
+2022,-80435,950 - Undistributed Offsetting Receipts,CBO
+2023,-82947,950 - Undistributed Offsetting Receipts,CBO
+2024,-85433,950 - Undistributed Offsetting Receipts,CBO
+2025,-87964,950 - Undistributed Offsetting Receipts,CBO
+2026,-90513,950 - Undistributed Offsetting Receipts,CBO
+2027,-93126,950 - Undistributed Offsetting Receipts,CBO
+2028,-96690,950 - Undistributed Offsetting Receipts,CBO
