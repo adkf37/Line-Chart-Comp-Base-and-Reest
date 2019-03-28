@@ -1,241 +1,301 @@
 Year,Outlays,Function,BudgetType
 2014,596,Defense discretionary ,CBO
 2014,596,Defense discretionary ,Pres
-2014,301,Medicaid,CBO
-2014,301,Medicaid,Pres
-2014,505,Medicare,CBO
-2014,505,Medicare,Pres
-2014,228,Net Interest,CBO
-2014,419,Other Mandatory,CBO
-2014,419,Other Mandatory,Pres
-2014,228,Net Interest,Pres
-2014,564,Nondefense discretionary ,CBO
-2014,564,Nondefense discretionary ,Pres
-2014,845,Social Security,CBO
-2014,845,Social Security,Pres
-2014,3459,Total Outlays,CBO
-2014,3459,Total Outlays,Pres
 2015,583,Defense discretionary ,CBO
 2015,583,Defense discretionary ,Pres
-2015,350,Medicaid,CBO
-2015,350,Medicaid,Pres
-2015,540,Medicare,CBO
-2015,540,Medicare,Pres
-2015,223,Net Interest,CBO
-2015,223,Net Interest,Pres
-2015,575,Nondefense discretionary ,CBO
-2015,575,Nondefense discretionary ,Pres
-2015,882,Social Security,CBO
-2015,882,Social Security,Pres
-2015,521,Other Mandatory,CBO
-2015,521,Other Mandatory,Pres
-2015,3673,Total Outlays,CBO
-2015,3673,Total Outlays,Pres
 2016,585,Defense discretionary ,CBO
 2016,585,Defense discretionary ,Pres
-2016,368,Medicaid,CBO
-2016,368,Medicaid,Pres
-2016,588,Medicare,CBO
-2016,588,Medicare,Pres
-2016,238,Net Interest,CBO
-2016,238,Net Interest,Pres
-2016,590,Nondefense discretionary ,CBO
-2016,590,Nondefense discretionary ,Pres
-2016,910,Social Security,CBO
-2016,910,Social Security,Pres
-2016,506,Other Mandatory,CBO
-2016,506,Other Mandatory,Pres
-2016,3785,Total Outlays,CBO
-2016,3785,Total Outlays,Pres
 2017,590,Defense discretionary ,CBO
 2017,590,Defense discretionary ,Pres
+2018,618,Defense discretionary ,Pres
+2018,618,Defense discretionary ,CBO
+2019,666,Defense discretionary ,Pres
+2019,663,Defense discretionary ,CBO
+2020,699,Defense discretionary ,Pres
+2020,647,Defense discretionary ,CBO
+2021,718,Defense discretionary ,Pres
+2021,654,Defense discretionary ,CBO
+2022,740,Defense discretionary ,Pres
+2022,672,Defense discretionary ,CBO
+2023,751,Defense discretionary ,Pres
+2023,680,Defense discretionary ,CBO
+2024,731,Defense discretionary ,Pres
+2024,690,Defense discretionary ,CBO
+2025,737,Defense discretionary ,Pres
+2025,712,Defense discretionary ,CBO
+2026,747,Defense discretionary ,Pres
+2026,730,Defense discretionary ,CBO
+2027,759,Defense discretionary ,Pres
+2027,748,Defense discretionary ,CBO
+2028,780,Defense discretionary ,Pres
+2028,771,Defense discretionary ,CBO
+2014,301,Medicaid,CBO
+2014,301,Medicaid,Pres
+2015,350,Medicaid,CBO
+2015,350,Medicaid,Pres
+2016,368,Medicaid,CBO
+2016,368,Medicaid,Pres
 2017,375,Medicaid,CBO
 2017,375,Medicaid,Pres
+2018,383,Medicaid,Pres
+2018,383,Medicaid,CBO
+2019,401,Medicaid,Pres
+2019,401,Medicaid,CBO
+2020,353,Medicaid,Pres
+2020,417,Medicaid,CBO
+2021,348,Medicaid,Pres
+2021,437,Medicaid,CBO
+2022,354,Medicaid,Pres
+2022,465,Medicaid,CBO
+2023,365,Medicaid,Pres
+2023,493,Medicaid,CBO
+2024,376,Medicaid,Pres
+2024,524,Medicaid,CBO
+2025,387,Medicaid,Pres
+2025,554,Medicaid,CBO
+2026,399,Medicaid,Pres
+2026,587,Medicaid,CBO
+2027,411,Medicaid,Pres
+2027,620,Medicaid,CBO
+2028,423,Medicaid,Pres
+2028,655,Medicaid,CBO
+2014,505,Medicare,CBO
+2014,505,Medicare,Pres
+2015,540,Medicare,CBO
+2015,540,Medicare,Pres
+2016,588,Medicare,CBO
+2016,588,Medicare,Pres
 2017,591,Medicare,CBO
 2017,591,Medicare,Pres
+2018,583,Medicare,Pres
+2018,583,Medicare,CBO
+2019,641,Medicare,Pres
+2019,641,Medicare,CBO
+2020,655,Medicare,Pres
+2020,685,Medicare,CBO
+2021,702,Medicare,Pres
+2021,738,Medicare,CBO
+2022,785,Medicare,Pres
+2022,828,Medicare,CBO
+2023,804,Medicare,Pres
+2023,852,Medicare,CBO
+2024,816,Medicare,Pres
+2024,868,Medicare,CBO
+2025,916,Medicare,Pres
+2025,973,Medicare,CBO
+2026,982,Medicare,Pres
+2026,1042,Medicare,CBO
+2027,1059,Medicare,Pres
+2027,1116,Medicare,CBO
+2028,1171,Medicare,Pres
+2028,1260,Medicare,CBO
+2014,228,Net Interest,CBO
+2014,228,Net Interest,Pres
+2015,223,Net Interest,CBO
+2015,223,Net Interest,Pres
+2016,238,Net Interest,CBO
+2016,238,Net Interest,Pres
 2017,261,Net Interest,CBO
 2017,261,Net Interest,Pres
+2018,315,Net Interest,Pres
+2018,315,Net Interest,CBO
+2019,387,Net Interest,Pres
+2019,389,Net Interest,CBO
+2020,479,Net Interest,Pres
+2020,484,Net Interest,CBO
+2021,558,Net Interest,Pres
+2021,569,Net Interest,CBO
+2022,623,Net Interest,Pres
+2022,642,Net Interest,CBO
+2023,672,Net Interest,Pres
+2023,701,Net Interest,CBO
+2024,698,Net Interest,Pres
+2024,738,Net Interest,CBO
+2025,719,Net Interest,Pres
+2025,773,Net Interest,CBO
+2026,748,Net Interest,Pres
+2026,816,Net Interest,CBO
+2027,782,Net Interest,Pres
+2027,863,Net Interest,CBO
+2028,819,Net Interest,Pres
+2028,914,Net Interest,CBO
+2014,564,Nondefense discretionary ,CBO
+2014,564,Nondefense discretionary ,Pres
+2015,575,Nondefense discretionary ,CBO
+2015,575,Nondefense discretionary ,Pres
+2016,590,Nondefense discretionary ,CBO
+2016,590,Nondefense discretionary ,Pres
 2017,607,Nondefense discretionary ,CBO
 2017,607,Nondefense discretionary ,Pres
-2017,939,Social Security,CBO
-2017,939,Social Security,Pres
+2018,656,Nondefense discretionary ,Pres
+2018,656,Nondefense discretionary ,CBO
+2019,658,Nondefense discretionary ,Pres
+2019,694,Nondefense discretionary ,CBO
+2020,612,Nondefense discretionary ,Pres
+2020,691,Nondefense discretionary ,CBO
+2021,570,Nondefense discretionary ,Pres
+2021,691,Nondefense discretionary ,CBO
+2022,534,Nondefense discretionary ,Pres
+2022,709,Nondefense discretionary ,CBO
+2023,514,Nondefense discretionary ,Pres
+2023,729,Nondefense discretionary ,CBO
+2024,500,Nondefense discretionary ,Pres
+2024,750,Nondefense discretionary ,CBO
+2025,490,Nondefense discretionary ,Pres
+2025,774,Nondefense discretionary ,CBO
+2026,481,Nondefense discretionary ,Pres
+2026,797,Nondefense discretionary ,CBO
+2027,473,Nondefense discretionary ,Pres
+2027,820,Nondefense discretionary ,CBO
+2028,464,Nondefense discretionary ,Pres
+2028,842,Nondefense discretionary ,CBO
+2014,419,Other Mandatory,CBO
+2014,419,Other Mandatory,Pres
+2015,521,Other Mandatory,CBO
+2015,521,Other Mandatory,Pres
+2016,506,Other Mandatory,CBO
+2016,506,Other Mandatory,Pres
 2017,613,Other Mandatory,CBO
 2017,613,Other Mandatory,Pres
-2017,3976,Total Outlays,CBO
-2017,3976,Total Outlays,Pres
-2018,618,Defense discretionary ,Pres
-2018,383,Medicaid,Pres
-2018,583,Medicare,Pres
-2018,315,Net Interest,Pres
-2018,656,Nondefense discretionary ,Pres
 2018,591,Other Mandatory,Pres
-2018,984,Social Security,Pres
 2018,591,Other Mandatory,CBO
-2018,618,Defense discretionary ,CBO
-2018,383,Medicaid,CBO
-2018,583,Medicare,CBO
-2018,315,Net Interest,CBO
-2018,656,Nondefense discretionary ,CBO
-2018,984,Social Security,CBO
-2018,4131,Total Outlays,CBO
-2018,4131,Total Outlays,Pres
-2019,666,Defense discretionary ,Pres
-2019,401,Medicaid,Pres
-2019,641,Medicare,Pres
-2019,387,Net Interest,Pres
-2019,658,Nondefense discretionary ,Pres
-2019,1043,Social Security,Pres
 2019,653,Other Mandatory,Pres
 2019,630,Other Mandatory,CBO
-2019,663,Defense discretionary ,CBO
-2019,401,Medicaid,CBO
-2019,641,Medicare,CBO
-2019,389,Net Interest,CBO
-2019,694,Nondefense discretionary ,CBO
-2019,1043,Social Security,CBO
-2019,4463,Total Outlays,CBO
-2019,4448,Total Outlays,Pres
-2020,699,Defense discretionary ,Pres
-2020,353,Medicaid,Pres
-2020,655,Medicare,Pres
-2020,479,Net Interest,Pres
-2020,612,Nondefense discretionary ,Pres
-2020,1109,Social Security,Pres
 2020,642,Other Mandatory,Pres
 2020,649,Other Mandatory,CBO
-2020,647,Defense discretionary ,CBO
-2020,417,Medicaid,CBO
-2020,685,Medicare,CBO
-2020,484,Net Interest,CBO
-2020,691,Nondefense discretionary ,CBO
-2020,1110,Social Security,CBO
-2020,4683,Total Outlays,CBO
-2020,4548,Total Outlays,Pres
-2021,718,Defense discretionary ,Pres
-2021,348,Medicaid,Pres
-2021,702,Medicare,Pres
-2021,558,Net Interest,Pres
-2021,570,Nondefense discretionary ,Pres
-2021,1178,Social Security,Pres
 2021,700,Other Mandatory,Pres
 2021,678,Other Mandatory,CBO
-2021,654,Defense discretionary ,CBO
-2021,437,Medicaid,CBO
-2021,738,Medicare,CBO
-2021,569,Net Interest,CBO
-2021,691,Nondefense discretionary ,CBO
-2021,1180,Social Security,CBO
-2021,4947,Total Outlays,CBO
-2021,4775,Total Outlays,Pres
-2022,740,Defense discretionary ,Pres
-2022,354,Medicaid,Pres
-2022,785,Medicare,Pres
-2022,623,Net Interest,Pres
-2022,534,Nondefense discretionary ,Pres
-2022,1251,Social Security,Pres
 2022,769,Other Mandatory,Pres
 2022,721,Other Mandatory,CBO
-2022,672,Defense discretionary ,CBO
-2022,465,Medicaid,CBO
-2022,828,Medicare,CBO
-2022,642,Net Interest,CBO
-2022,709,Nondefense discretionary ,CBO
-2022,1253,Social Security,CBO
-2022,5290,Total Outlays,CBO
-2022,5055,Total Outlays,Pres
-2023,751,Defense discretionary ,Pres
-2023,365,Medicaid,Pres
-2023,804,Medicare,Pres
-2023,672,Net Interest,Pres
-2023,514,Nondefense discretionary ,Pres
-2023,1328,Social Security,Pres
 2023,769,Other Mandatory,Pres
 2023,720,Other Mandatory,CBO
-2023,680,Defense discretionary ,CBO
-2023,493,Medicaid,CBO
-2023,852,Medicare,CBO
-2023,701,Net Interest,CBO
-2023,729,Nondefense discretionary ,CBO
-2023,1330,Social Security,CBO
-2023,5505,Total Outlays,CBO
-2023,5202,Total Outlays,Pres
-2024,731,Defense discretionary ,Pres
-2024,376,Medicaid,Pres
-2024,816,Medicare,Pres
-2024,698,Net Interest,Pres
-2024,500,Nondefense discretionary ,Pres
-2024,1408,Social Security,Pres
 2024,775,Other Mandatory,Pres
 2024,713,Other Mandatory,CBO
-2024,690,Defense discretionary ,CBO
-2024,524,Medicaid,CBO
-2024,868,Medicare,CBO
-2024,738,Net Interest,CBO
-2024,750,Nondefense discretionary ,CBO
-2024,1410,Social Security,CBO
-2024,5693,Total Outlays,CBO
-2024,5305,Total Outlays,Pres
-2025,737,Defense discretionary ,Pres
-2025,387,Medicaid,Pres
-2025,916,Medicare,Pres
-2025,719,Net Interest,Pres
-2025,490,Nondefense discretionary ,Pres
-2025,1492,Social Security,Pres
 2025,811,Other Mandatory,Pres
 2025,739,Other Mandatory,CBO
-2025,712,Defense discretionary ,CBO
-2025,554,Medicaid,CBO
-2025,973,Medicare,CBO
-2025,773,Net Interest,CBO
-2025,774,Nondefense discretionary ,CBO
-2025,1495,Social Security,CBO
-2025,6020,Total Outlays,CBO
-2025,5553,Total Outlays,Pres
-2026,747,Defense discretionary ,Pres
-2026,399,Medicaid,Pres
-2026,982,Medicare,Pres
-2026,748,Net Interest,Pres
-2026,481,Nondefense discretionary ,Pres
-2026,1580,Social Security,Pres
 2026,841,Other Mandatory,Pres
 2026,770,Other Mandatory,CBO
-2026,730,Defense discretionary ,CBO
-2026,587,Medicaid,CBO
-2026,1042,Medicare,CBO
-2026,816,Net Interest,CBO
-2026,797,Nondefense discretionary ,CBO
-2026,1583,Social Security,CBO
-2026,6324,Total Outlays,CBO
-2026,5778,Total Outlays,Pres
-2027,759,Defense discretionary ,Pres
-2027,411,Medicaid,Pres
-2027,1059,Medicare,Pres
-2027,782,Net Interest,Pres
-2027,473,Nondefense discretionary ,Pres
-2027,1673,Social Security,Pres
 2027,871,Other Mandatory,Pres
 2027,773,Other Mandatory,CBO
-2027,748,Defense discretionary ,CBO
-2027,620,Medicaid,CBO
-2027,1116,Medicare,CBO
-2027,863,Net Interest,CBO
-2027,820,Nondefense discretionary ,CBO
+2028,922,Other Mandatory,Pres
+2028,831,Other Mandatory,CBO
+2014,845,Social Security,CBO
+2014,845,Social Security,Pres
+2015,882,Social Security,CBO
+2015,882,Social Security,Pres
+2016,910,Social Security,CBO
+2016,910,Social Security,Pres
+2017,939,Social Security,CBO
+2017,939,Social Security,Pres
+2018,984,Social Security,Pres
+2018,984,Social Security,CBO
+2019,1043,Social Security,Pres
+2019,1043,Social Security,CBO
+2020,1109,Social Security,Pres
+2020,1110,Social Security,CBO
+2021,1178,Social Security,Pres
+2021,1180,Social Security,CBO
+2022,1251,Social Security,Pres
+2022,1253,Social Security,CBO
+2023,1328,Social Security,Pres
+2023,1330,Social Security,CBO
+2024,1408,Social Security,Pres
+2024,1410,Social Security,CBO
+2025,1492,Social Security,Pres
+2025,1495,Social Security,CBO
+2026,1580,Social Security,Pres
+2026,1583,Social Security,CBO
+2027,1673,Social Security,Pres
 2027,1676,Social Security,CBO
+2028,1771,Social Security,Pres
+2028,1774,Social Security,CBO
+2014,3459,Total Outlays,CBO
+2014,3459,Total Outlays,Pres
+2015,3673,Total Outlays,CBO
+2015,3673,Total Outlays,Pres
+2016,3785,Total Outlays,CBO
+2016,3785,Total Outlays,Pres
+2017,3976,Total Outlays,CBO
+2017,3976,Total Outlays,Pres
+2018,4131,Total Outlays,CBO
+2018,4131,Total Outlays,Pres
+2019,4463,Total Outlays,CBO
+2019,4448,Total Outlays,Pres
+2020,4683,Total Outlays,CBO
+2020,4548,Total Outlays,Pres
+2021,4947,Total Outlays,CBO
+2021,4775,Total Outlays,Pres
+2022,5290,Total Outlays,CBO
+2022,5055,Total Outlays,Pres
+2023,5505,Total Outlays,CBO
+2023,5202,Total Outlays,Pres
+2024,5693,Total Outlays,CBO
+2024,5305,Total Outlays,Pres
+2025,6020,Total Outlays,CBO
+2025,5553,Total Outlays,Pres
+2026,6324,Total Outlays,CBO
+2026,5778,Total Outlays,Pres
 2027,6616,Total Outlays,CBO
 2027,6029,Total Outlays,Pres
-2028,780,Defense discretionary ,Pres
-2028,423,Medicaid,Pres
-2028,1171,Medicare,Pres
-2028,819,Net Interest,Pres
-2028,464,Nondefense discretionary ,Pres
-2028,1771,Social Security,Pres
-2028,922,Other Mandatory,Pres
-2028,771,Defense discretionary ,CBO
-2028,655,Medicaid,CBO
-2028,1260,Medicare,CBO
-2028,914,Net Interest,CBO
-2028,842,Nondefense discretionary ,CBO
-2028,831,Other Mandatory,CBO
-2028,1774,Social Security,CBO
 2028,7047,Total Outlays,CBO
 2028,6351,Total Outlays,Pres
+2014,2070,Mandatory,CBO
+2014,2070,Mandatory,Pres
+2015,2293,Mandatory,CBO
+2015,2293,Mandatory,Pres
+2016,2372,Mandatory,CBO
+2016,2372,Mandatory,Pres
+2017,2518,Mandatory,CBO
+2017,2518,Mandatory,Pres
+2018,2541,Mandatory,Pres
+2018,2541,Mandatory,CBO
+2019,2738,Mandatory,Pres
+2019,2715,Mandatory,CBO
+2020,2759,Mandatory,Pres
+2020,2861,Mandatory,CBO
+2021,2928,Mandatory,Pres
+2021,3033,Mandatory,CBO
+2022,3159,Mandatory,Pres
+2022,3267,Mandatory,CBO
+2023,3266,Mandatory,Pres
+2023,3395,Mandatory,CBO
+2024,3375,Mandatory,Pres
+2024,3515,Mandatory,CBO
+2025,3606,Mandatory,Pres
+2025,3761,Mandatory,CBO
+2026,3802,Mandatory,Pres
+2026,3982,Mandatory,CBO
+2027,4014,Mandatory,Pres
+2027,4185,Mandatory,CBO
+2028,4287,Mandatory,Pres
+2028,4520,Mandatory,CBO
+2014,1160,Discretionary,CBO
+2014,1160,Discretionary,Pres
+2015,1158,Discretionary,CBO
+2015,1158,Discretionary,Pres
+2016,1175,Discretionary,CBO
+2016,1175,Discretionary,Pres
+2017,1197,Discretionary,CBO
+2017,1197,Discretionary,Pres
+2018,1274,Discretionary,Pres
+2018,1274,Discretionary,CBO
+2019,1324,Discretionary,Pres
+2019,1357,Discretionary,CBO
+2020,1311,Discretionary,Pres
+2020,1338,Discretionary,CBO
+2021,1288,Discretionary,Pres
+2021,1345,Discretionary,CBO
+2022,1274,Discretionary,Pres
+2022,1381,Discretionary,CBO
+2023,1265,Discretionary,Pres
+2023,1409,Discretionary,CBO
+2024,1231,Discretionary,Pres
+2024,1440,Discretionary,CBO
+2025,1227,Discretionary,Pres
+2025,1486,Discretionary,CBO
+2026,1228,Discretionary,Pres
+2026,1527,Discretionary,CBO
+2027,1232,Discretionary,Pres
+2027,1568,Discretionary,CBO
+2028,1244,Discretionary,Pres
+2028,1613,Discretionary,CBO
